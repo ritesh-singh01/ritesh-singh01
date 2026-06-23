@@ -48,18 +48,8 @@ A full-stack platform designed to help students manage placement preparation and
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/riteshsingh01">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/producer.404">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:riteshsingh5361@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+- 📧 Email: riteshsingh5361@gmail.com
+- 💼 LinkedIn: linkedin.com/in/riteshsingh01
 ---
 
 <p align="center">
