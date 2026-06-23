@@ -78,5 +78,10 @@ A full-stack platform designed to help students manage placement preparation and
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+<p align="center">
   <i>Building practical projects, learning continuously, and improving one commit at a time.</i>
 </p>
