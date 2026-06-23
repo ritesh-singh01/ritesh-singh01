@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build clean, useful web applications and improve through real projects, problem solving, and continuous learning.
+  I build clean, useful web applications and keep improving through real projects, problem solving, and continuous learning.
 </p>
 
 ---
@@ -14,10 +14,10 @@
 
 - 🎓 Computer Applications student
 - 🔭 Currently building **Placement Prep Tracker** — a full-stack platform for placement preparation and drive management
-- 🌱 Learning **React.js, Node.js, Express.js, MongoDB, and Software Development Best Practices**
+- 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, and better software design practices**
 - 👯 Open to collaborating on **web applications, student-focused tools, and open-source projects**
-- 💬 Ask me about **Web Development, UI/UX, GitHub, Deployment, and Project Architecture**
-- ⚡ I enjoy turning ideas into polished, practical products
+- 💬 Ask me about **web development, UI/UX, GitHub setup, deployment, and project structure**
+- ⚡ I like turning ideas into polished products instead of leaving them as half-finished concepts
 
 ---
 
@@ -47,37 +47,21 @@
 ## 📌 Featured Project
 
 ### Placement Prep Tracker
+A full-stack platform designed to help students manage placement preparation and track placement opportunities in one place.
 
-A full-stack platform designed to help students manage placement preparation and track placement opportunities.
-
-### Key Features
+**Highlights**
 - Track placement drives
 - Manage applications
 - Organize preparation resources
 - Responsive and user-friendly interface
 
-### Tech Stack
-React • Node.js • Express.js • MongoDB • Render
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Render
 
-### Live Demo
-https://placement-prep-tracker-za1w.onrender.com
+**Live Demo:** https://placement-prep-tracker-za1w.onrender.com
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-singh01&show_icons=true&theme=github_dark" height="170" />
-  <img src="https://streak-stats.demolab.com?user=ritesh-singh01&theme=github-dark-blue" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-singh01&layout=compact&theme=github_dark" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/riteshsingh01">
@@ -89,14 +73,6 @@ https://placement-prep-tracker-za1w.onrender.com
   <a href="mailto:riteshsingh5361@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
